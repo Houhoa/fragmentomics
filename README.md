@@ -14,10 +14,10 @@ Systematic Evaluation of Cell-Free DNA Fragmentation Patterns for Cancer Diagnos
    git clone --recursive https://github.com/Houhoa/fragmentomics.git
 	```
 2. Extract data in folder
-  ```
-  cd fragmentation patterns
-  cd model
-  ```
+       ```
+   cd fragmentation patterns
+   cd model
+       ```
 4. Configure experimental environment
 	* Windows
 	* python 3.8 
@@ -26,11 +26,10 @@ Systematic Evaluation of Cell-Free DNA Fragmentation Patterns for Cancer Diagnos
 	```
 	python coverage.py
 	```  
-6. You will receive the results of the test cases with six evaluation indicators.
   
 ## Usage
-After you have prepared the cell-free DNA sequencing file, you can use the code in "fragmentation patterns" to calculate the fragmentation pattern features.
-After you have computed the fragmentation pattern, you can construct a model using the fragmentation pattern matrix and the class labels of the samples, with code similar to that in the "model" folder.
+1. After you have prepared the cell-free DNA sequencing file, you can use the code in "fragmentation patterns" to calculate the fragmentation pattern features.
+2. After you have computed the fragmentation pattern, you can construct a model using the fragmentation pattern matrix and the class labels of the samples, with code similar to that in the "model" folder.
 
 ## Citation
 ```
