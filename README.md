@@ -14,10 +14,10 @@ Systematic Evaluation of Cell-Free DNA Fragmentation Patterns for Cancer Diagnos
    git clone --recursive https://github.com/Houhoa/fragmentomics.git
 	```
 2. Extract data in folder
-       ```
+   	```
    cd fragmentation patterns
    cd model
-       ```
+	```
 4. Configure experimental environment
 	* Windows
 	* python 3.8 
