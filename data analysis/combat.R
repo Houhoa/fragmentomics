@@ -1,0 +1,10 @@
+library(reticulate)
+library(sva)
+np <- import("numpy")
+
+train <- np$load("train_feature.npy")
+test <- np$load("test_feature.npy")
+batch <- c(rep(1, ncol(train)), rep(2, ncol(test)))
+feature <- cbind(train, test)
+data_corrected <- ComBat(feature, batch = batch)
+np$save("feature_corrected.npy", data_corrected)
