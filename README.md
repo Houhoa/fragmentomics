@@ -1,5 +1,5 @@
 # fragmentomics
-Systematic Evaluation of Cell-Free DNA Fragmentation Patterns for Cancer Diagnosis and Enhanced Cancer Detection through Integration of Multiple Fragmentations
+Systematically Evaluating Cell-Free DNA Fragmentation Patterns for Cancer Diagnosis and Enhanced Cancer Detection via Integrating Multiple Fragmentation Patterns
 
 ## Table of Contents
 1. [Quick start](#Quick-start)
@@ -33,7 +33,7 @@ Systematic Evaluation of Cell-Free DNA Fragmentation Patterns for Cancer Diagnos
 
 ## Citation
 ```
-Hou Y, Meng X & Zhou X. "Systematic Evaluation of Cell-Free DNA Fragmentation Patterns for Cancer Diagnosis and Enhanced Cancer Detection through Integration of Multiple Fragmentations". In preparation.
+Hou Y, Meng X & Zhou X. "Systematically Evaluating Cell-Free DNA Fragmentation Patterns for Cancer Diagnosis and Enhanced Cancer Detection via Integrating Multiple Fragmentation Patterns". In preparation.
 ```
 
 ## License
